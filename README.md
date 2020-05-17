@@ -26,5 +26,5 @@ $ npm install
 2. Simply run `npm start` from within the `weather-forecaster` folder
 
 ```
-npm start
+$ npm start
 ```
